@@ -1,6 +1,6 @@
 {
-    "github_repo_url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "timestamp": "2023-11-15T07:22:09.723393",
-    "commit_hash_to_benchmark": "fa357dd13928baa4d1e30054bc75edc5d68b08f1",
+    "github_repo_url": "https://github.com/icolane/IcOGpT",
+    "timestamp": "2023-12-10T05:40:29.254692",
+    "commit_hash_to_benchmark": "f3faa478144759bed4ba23e2865915d0b319a4b8",
     "branch_to_benchmark": "master"
 }
